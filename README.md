@@ -69,7 +69,7 @@ A web application designed to manage resident information, household registratio
 
 ### Step 1: Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaiz-dev/citizen_management.git
 cd citizen_management
 ```
 
